@@ -23,6 +23,22 @@
         </header>
     </div>
 
+    {% if site.navbar and site.navbar.size > 0 -%}
+    <!-- body: Navigation + Content -->
+    
+    <div id="navbar_wrap" class="outer">
+      <nav id="navbar" class="inner">
+        <ul>
+        {%- for item in site.navbar %}
+          {%- if item.link and item.text %}
+          <li><a href="{{ item.link }}">{{ item.text }}</a></li>
+          {%- endif %}
+        {%- endfor %}
+        </ul>
+      </nav>
+    </div>
+    {%- endif %}
+
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
