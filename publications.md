@@ -209,12 +209,6 @@ publication_types:
 ## Publications
 ---------------
 
-This page illustrates how the publication list works.
-The content of this page is built from the publication records in `_data/publications.yml`.
-Publications are automatically grouped by year and numbered consecutively from oldest to most recent.
-Publication records are also assigned a type, which is currently used to add additional information to book chapter listings.
-Within each year group, publications are grouped by type; the types of publications included and output order are specified in the page front matter.
-
 <br>
 
 {% comment %} Build page content. {% endcomment %}
