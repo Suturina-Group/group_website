@@ -9,7 +9,7 @@ custom_css:
 -----------
 
 <div class="bio verbose">
-  <img src="/assets/images/liza.jpg" alt="Elizaveta Suturina" class="headshot">
+  <img src="/assets/images/liza.webp" alt="Elizaveta Suturina" class="headshot">
   <span>
     <p>Elizaveta joined the University of Bath in 2018 having...</p>
     <p>
