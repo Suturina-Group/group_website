@@ -1,5 +1,17 @@
 title: Suturina Research Group
 description: Computational Chemistry and Magnetism
-show_downloads: true
-google_analytics:
+show_downloads: false
 theme: jekyll-theme-slate
+
+plugins:
+  - jekyll-remote-theme
+
+navbar:
+  - link: "index.html"
+    text: "Home"
+  - link: "research.html"
+    text: "Research"
+  - link: "publications.html"
+    text: "Publications"
+  - link: "people.html"
+    text: "People"
