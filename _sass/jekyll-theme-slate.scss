@@ -378,6 +378,54 @@ Full-Width Styles
 }
 
 
+/******
+ Navbar
+ ******/
+
+$colour-dark-1: #212121;
+$colour-dark-2: #373737;
+
+$colour-light-1: #f2f2f2;
+$colour-light-2: #ffffff;
+
+$colour-link: #4d4dff;
+
+#navbar_wrap {
+  background: #212121;
+}
+
+#navbar {
+  padding: 0px 10px;
+}
+
+#navbar > ul {
+  display: flex;
+  flex-wrap: nowrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar > ul > li {
+  padding: 0 25px;
+  flex-basis: 100%;
+  text-align: center;
+}
+
+#navbar > ul > li:hover {
+  background-color: $colour-link;
+}
+
+#navbar > ul > li > a {
+  color: $colour-light-2;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#navbar > ul > li > a:hover {
+  text-decoration: none;
+}
+
 
 /*******************************************************************************
 Small Device Styles
