@@ -6,6 +6,8 @@ publication_types:
   - 'journal-article'
   - 'conference-proceedings'
   - 'book-chapter'
+
+layout: default
 ---
 
 {% comment %}

@@ -3,9 +3,6 @@ description: Computational Chemistry and Magnetism
 show_downloads: false
 theme: jekyll-theme-slate
 
-plugins:
-  - jekyll-remote-theme
-
 navbar:
   - link: "index.html"
     text: "Home"

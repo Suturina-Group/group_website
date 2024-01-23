@@ -1,5 +1,7 @@
 ---
 title: Opportunities
+layout: default
+
 ---
 
 ## Work with us
