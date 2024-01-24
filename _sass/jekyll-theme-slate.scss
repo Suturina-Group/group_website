@@ -415,6 +415,7 @@ $colour-link: #4d4dff;
 
 .Navbar__Link > a:hover {
   text-decoration: none;
+  background-color: $colour-link;
 }
 
 .Navbar__Items {
@@ -422,9 +423,6 @@ $colour-link: #4d4dff;
   justify-content: space-around
 }
 
-.Navbar__Link:hover {
-  background-color: $colour-link;
-}
 
 
 
