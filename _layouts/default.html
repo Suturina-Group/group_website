@@ -28,13 +28,13 @@
     
     <div id="navbar_wrap" class="outer">
       <nav id="navbar" class="inner">
-        <ul>
+        <nav class="Navbar__Items">
         {%- for item in site.navbar %}
           {%- if item.link and item.text %}
-          <li><a href="{{ item.link }}">{{ item.text }}</a></li>
+          <div class="Navbar__Link"><a href="{{ item.link }}">{{ item.text }}</a></div>
           {%- endif %}
         {%- endfor %}
-        </ul>
+        </nav>
       </nav>
     </div>
     {%- endif %}

@@ -28,8 +28,7 @@ custom_css:
   <img src="/assets/images/jon.jpg" alt="Jon Kragskow" class="headshot" style="width:300px">
   <span>
     <p>
-      Jon is a PDRA in computational chemistry, having obtained his MChem (2018) and PhD (2022) degrees at the University of Manchester, UK under the supervision of Prof. Nicholas Chilton, where
-      he developed novel software and approaches for modelling electron-phonon coupling in magnetic materials and single molecule magnets.
+      Jon is a PDRA in computational chemistry, and obtained his MChem (2018) and PhD (2022) degrees at the University of Manchester, UK under the supervision of Prof. Nicholas Chilton. In his previous positions he has developed novel software and approaches for modelling electron-phonon coupling and magnetic relaxation in magnetic materials and single molecule magnets.
     </p>
     <p>
       Jon's work in Bath focusses on using computational chemistry techniques to enable the extraction of spin-Hamiltonian parameters from Nuclear Magnetic Resonance spectroscopy measurements.

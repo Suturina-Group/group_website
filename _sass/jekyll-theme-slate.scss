@@ -390,41 +390,42 @@ $colour-light-2: #ffffff;
 
 $colour-link: #4d4dff;
 
-#navbar_wrap {
+
+.Navbar {
   background: #212121;
-}
-
-#navbar {
-  padding: 0px 10px;
-}
-
-#navbar > ul {
+  padding: 16px;
   display: flex;
-  flex-wrap: nowrap;
-  list-style: none;
-  margin: 0;
-  padding: 0;
 }
 
-#navbar > ul > li {
-  padding: 0 25px;
-  flex-basis: 100%;
-  text-align: center;
+.Navbar__Link {
+  display: flex;
+  padding-right: 8px;
+  color: $colour-light-1;
+  font-size: larger;
+  font-weight: bolder;
 }
 
-#navbar > ul > li:hover {
+.Navbar__Link > a:link {
+  color:white;
+}
+
+.Navbar__Link > a:visited {
+  color:white;
+}
+
+.Navbar__Link > a:hover {
+  text-decoration: none;
+}
+
+.Navbar__Items {
+  display:flex;
+  justify-content: space-around
+}
+
+.Navbar__Link:hover {
   background-color: $colour-link;
 }
 
-#navbar > ul > li > a {
-  color: $colour-light-2;
-  font-size: 20px;
-  font-weight: bold;
-}
-
-#navbar > ul > li > a:hover {
-  text-decoration: none;
-}
 
 
 /*******************************************************************************
