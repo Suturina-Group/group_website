@@ -37,4 +37,16 @@ In 2014, she moved to Germany to work in the group of Prof Frank Neese at the Ma
   </span>
 </div>
 
+### Former group members: 
+
+Hannah Glover
+Jack Neill
+Katia Dujarric
+Samora Shakespeare
+Ruben Sharma
+Luke D’Souza
+Marie C Harder
+Julian Friedrich Hille
+Max Lawday
+
 <br style="clear: both;">
