@@ -12,3 +12,7 @@ navbar:
     text: "Publications"
   - link: "people.html"
     text: "People"
+  - link: "opportunities.html"
+    text: "Opportunities"
+  - link: "news.html"
+    text: "News"
