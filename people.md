@@ -12,9 +12,9 @@ custom_css:
 <div class="bio" style="text-align: justify; text-justify: inter-word">
   <img src="/assets/images/liza.webp" alt="Elizaveta Suturina" class="headshot" style="width:300px">
   <span>
-    <p>Elizaveta joined the University of Bath in 2018 having...</p>
     <p>
-      She is interested in using ...
+      ES was awarded a PhD for her work on molecular magnetism (with Prof Nina Gritsan at Novosibirsk State University) in 2014, which was also recognised by the award of the Medal of the Russian Academy of Sciences.
+In 2014, she moved to Germany to work in the group of Prof Frank Neese at the Max Planck Institute for Chemical Energy Conversion. The project combined theoretical and experimental work using Electron Paramagnetic Resonance (EPR), Superconducting Quantum Interference Device (SQUID) magnetometry and Magnetic Circular Dichroism (MCD). Using a combined computational and experimental approach, ES showed how certain changes in the coordination environment can maximise the anisotropy of magnetic properties in a series of cobalt complexes. ES moved to the UK in 2016 to work with Prof. Ilya Kuprov (University of Southampton) on an EPSRC funded project in collaboration with Prof. David Parker (Durham University) and Prof. Eric McInnes (University of Manchester). The project dealt with lanthanide-based Magnetic Resonance Imaging (MRI) property responsive probes that provide temperature and / or pH maps on top of standard MRI scans. For this project, she developed and implemented an entirely novel methodology for paramagnetic NMR analysis that allowed re-examination of systematic trends in a series of lanthanide complexes.ES was awarded a tenure-track Prize Fellowship at Bath in 2018 to work on functional paramagnetic metal complexes and was appointed as a lecturer in 2020 where she continues her work in computational chemistry applied to spectroscopy and magnetism.
     </p>
   </span>
 </div>
