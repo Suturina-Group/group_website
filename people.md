@@ -24,29 +24,39 @@ In 2014, she moved to Germany to work in the group of Prof Frank Neese at the Ma
 ### Dr Jon Kragskow (PDRA) 2023-
 ----------
 
-<div class="bio" style="text-align: justify; text-justify: inter-word">
-  <img src="/assets/images/jon.jpg" alt="Jon Kragskow" class="headshot" style="width:300px">
-  <span>
-    <p>
-      Jon is a PDRA in computational chemistry, and obtained his MChem (2018) and PhD (2022) degrees at the University of Manchester, UK under the supervision of Prof. Nicholas Chilton. In his previous positions he has developed novel software and approaches for modelling electron-phonon coupling and magnetic relaxation in magnetic materials and single molecule magnets.
-    </p>
-    <p>
-      Jon's work in Bath focusses on using computational chemistry techniques to enable the extraction of spin-Hamiltonian parameters from Nuclear Magnetic Resonance spectroscopy measurements.
-    </p>
-    <p>Outside of research, Jon can be found either renovating his house, or enjoying the delights of Bath's only good craft beer bar.</p>
-  </span>
+<div class="row">
+  <div class="col-sm">
+    <img src="/assets/images/jon.jpg" alt="Jon Kragskow" class="biopic">
+  </div>
+  <div class="col-sm">
+      <p>
+        Jon is a PDRA in computational chemistry, and obtained his MChem (2018) and PhD (2022) degrees at the University of Manchester, UK under the supervision of Prof. Nicholas Chilton. In his previous positions he has developed novel software and approaches for modelling electron-phonon coupling and magnetic relaxation in magnetic materials and single molecule magnets.
+      </p>
+      <p>
+        Jon's work in Bath focusses on using computational chemistry techniques to enable the extraction of spin-Hamiltonian parameters from Nuclear Magnetic Resonance spectroscopy measurements.
+      </p>
+      <p>Outside of research, Jon can be found either renovating his house, or enjoying the delights of Bath's only good craft beer bar.</p>
+  </div>
 </div>
 
 ### Former group members: 
 
 Hannah Glover
+
 Jack Neill
+
 Katia Dujarric
+
 Samora Shakespeare
+
 Ruben Sharma
+
 Luke D’Souza
+
 Marie C Harder
+
 Julian Friedrich Hille
+
 Max Lawday
 
 <br style="clear: both;">
