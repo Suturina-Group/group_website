@@ -8,3 +8,34 @@
     margin: auto;
     width:200px
   }
+
+.Navbar {
+  background: #212121;
+  padding: 16px;
+  display: flex;
+}
+
+.Navbar__Link {
+  display: flex;
+  padding-right: 8px;
+  color: $colour-light-1;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.Navbar__Link > a:link {
+  color:white;
+}
+
+.Navbar__Link > a:visited {
+  color:white;
+}
+
+.Navbar__Link > a:hover {
+  text-decoration: none;
+}
+
+.Navbar__Items {
+  display:flex;
+  justify-content: space-around
+}
